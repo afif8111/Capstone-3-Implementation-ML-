@@ -18,3 +18,5 @@ Several model is tested and compared to determine the most suitable models
 Consists of Implementing of the best results and interpretation of the Results
 ## Cost Benefit Analysis
 Consists of Cost-Benefit Analysis for Term Deposit Subscription Model, key findings, conclusion, recommendations
+## Contribution
+Please feel free to open a pull request, sent to my email ariqulfikri@gmail.com or submit an issue if you have suggestions or encountered any problem.
