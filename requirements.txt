@@ -1,0 +1,10 @@
+## requirement
+pip
+jupyter
+db-dtypes
+pandas
+scikit-learn
+google-cloud-aiplatform
+google-cloud-bigquery
+google-cloud-storage
+google-auth
